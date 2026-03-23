@@ -84,14 +84,6 @@ The objective is to identify inflation trends, category contributions, and exter
 - 2023: Negative correlation trend observed
 - Relationship between oil and inflation is **dynamic, not constant**
 
----
-
-##  What I Did
-- Cleaned and structured CPI dataset in Excel  
-- Created pivot tables for category-level and time-based analysis  
-- Performed month-on-month and year-on-year calculations  
-- Applied correlation analysis to study external economic impact  
-- Built visual dashboards to communicate insights clearly  
 
 ---
 
